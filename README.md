@@ -1,4 +1,4 @@
-<h1>Hi, I'm Evelyn! 
+<h1>Hi, I'm Evelyn!</h1>
 
 <h2>Web Development Projects:</h2>
 
@@ -10,3 +10,9 @@
   - [Student Data Base](https://github.com/evelynjimene/Student-Data-Base)
   - [SkyTour](https://github.com/evelynjimene/SkyTour)
   - [Windows Calculator](https://github.com/evelynjimene/WinCalc)
+ 
+<h2>I'm currently learning:</h2>
+ <b>T INFO 457 Unix/Linux System Administration</b>
+ 
+ <b>TCSS 325 Computers, Ethics, and Society</b>
+  

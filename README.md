@@ -3,9 +3,9 @@
 <h2>Web Development Projects:</h2>
 
 - <b>JavaScript, HTML and CSS Practice</b>
-  - [Orlando Trip Blog](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Orlando Trip Blog](https://students.washington.edu/jimene4/TINFO230/finalwebsite/orlandotrip.html)
 - <b>WIX Web Application For a Business</b>
-  - [Olivas Painting LLC](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Olivas Painting LLC](https://www.olivaspaintingllc.com/) 
 - <b>C#</b>
   - [Student Data Base](https://github.com/evelynjimene/Student-Data-Base)
   - [SkyTour](https://github.com/evelynjimene/SkyTour)

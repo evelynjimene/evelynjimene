@@ -12,7 +12,8 @@
   - [Windows Calculator](https://github.com/evelynjimene/WinCalc)
  
 <h2>I'm currently learning:</h2>
- <b>T INFO 457 Unix/Linux System Administration</b>
- 
- <b>TCSS 325 Computers, Ethics, and Society</b>
+
+<b>University of Washington - Tacoma<b>
+ <ul>T INFO 457 Unix/Linux System Administration</ul>
+ <ul>TCSS 325 Computers, Ethics, and Society</ul>
   

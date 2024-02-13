@@ -3,7 +3,7 @@
 <h2>Web Development Projects:</h2>
 
 - <b>JavaScript, HTML and CSS Practice</b>
-  - [Orlando Trip Blog](https://students.washington.edu/jimene4/TINFO230/finalwebsite/orlandotrip.html)
+  - [Orlando Trip Blog](https://github.com/evelynjimene/Personal-Blog)
 - <b>WIX Web Application For a Business</b>
   - [Olivas Painting LLC](https://www.olivaspaintingllc.com/) 
 - <b>C#</b>

@@ -14,6 +14,6 @@
 <h2>I'm currently learning:</h2>
 
 <b>University of Washington - Tacoma<b>
- <ul>T INFO 457 Unix/Linux System Administration</ul>
+ <ul>T INFO 457 Linux System Administration</ul>
  <ul>TCSS 325 Computers, Ethics, and Society</ul>
   

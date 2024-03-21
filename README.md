@@ -54,3 +54,16 @@
 
 ###
 
+<div align="center">
+  <a href="https://open.spotify.com/user/g64udtpu5ee9q2vbjvfi63zk9">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=g64udtpu5ee9q2vbjvfi63zk9&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="300" src="https://png.pngtree.com/background/20210715/original/pngtree-abstract-technology-purple-binary-codes-background-picture-image_1259896.jpg"  />
+</div>
+
+###

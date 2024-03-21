@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/1a/71/58/1a7158689e5ce37e5d78d97c332a003f.gif"  />
+  <img height="400" src="https://i.pinimg.com/originals/1a/71/58/1a7158689e5ce37e5d78d97c332a003f.gif"  />
 </div>
 
 ###
@@ -38,7 +38,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/evelynjimene/evelynjimene/output/snake.svg" alt="Snake animation" />
+
 
 ###
 

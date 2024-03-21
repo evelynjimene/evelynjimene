@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">✨Hi, my name is Evelyn Jimenez✨<hr></p>
+<h2 align="center">✨Hi, my name is Evelyn Jimenez✨<hr></h2>
 <p align="center">Current senior studying Information Technology at the University of Washington</p>
 
 ###
@@ -38,7 +38,7 @@
 </div>
 
 ###
-<p align="center">✨Contact Me✨<hr></p>
+<h2 align="center">✨Contact Me✨<hr></h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/evejimenez/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />

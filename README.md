@@ -1,3 +1,2 @@
-# evelynjimenez.github.io
-**Website in Developement**:
-A portfolio website to post all my projects to and basically practice HTML/CSS and other formatting langauges. 
+[![MasterHead](https://content.wepik.com/statics/288819472/preview-page0.jpg)](https://github.com/evelynjimene)
+[![Evelyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=evelynjimene)](https://github.com/evelynjimene/github-readme-stats)

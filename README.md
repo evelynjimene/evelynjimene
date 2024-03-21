@@ -47,7 +47,7 @@
   <a href="https://discord.com/users/562493558284615728" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
-  <a href="mailto: jimene4@uw.edu" target="_blank">
+  <a href="mailto: evajimenez1295@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
@@ -61,9 +61,5 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="300" src="https://png.pngtree.com/background/20210715/original/pngtree-abstract-technology-purple-binary-codes-background-picture-image_1259896.jpg"  />
-</div>
 
 ###

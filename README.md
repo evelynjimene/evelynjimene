@@ -34,7 +34,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=evelynjimene&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=evelynjimene&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=evelynjimene&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=evelynjimene&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=5&order=3" height="250" alt="streak graph"  />
 </div>
 
 ###
@@ -49,14 +51,6 @@
   </a>
   <a href="mailto: evajimenez1295@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/g64udtpu5ee9q2vbjvfi63zk9">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=g64udtpu5ee9q2vbjvfi63zk9&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 

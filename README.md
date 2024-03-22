@@ -4,11 +4,11 @@
 
 ###
 
-<h2 align="center">✨Hi, my name is Evelyn Jimenez✨<hr></h2>
+<h2 align="center">✨Hi, my name is Evelyn Jimenez✨</h2>
 <p align="center">Current senior studying Information Technology at the University of Washington</p>
 
 ###
-<h2 align="center">✨Languages and Tools✨<hr></h2>
+<h2 align="center">✨Languages and Tools✨</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -41,7 +41,7 @@
 
 ###
 
-<h2 align="center">✨Contact Me✨<hr></h2>
+<h2 align="center">✨Contact Me✨</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/evejimenez" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
